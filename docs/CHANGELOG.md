@@ -13,6 +13,9 @@ aliases:
 
 ## tip
 
+* Dependency: [vmanomaly](https://docs.victoriametrics.com/operator/resources/vmanomaly/): update the default version to [v1.31.0](https://docs.victoriametrics.com/anomaly-detection/changelog/#v1310).
+* FEATURE: [vmanomaly](https://docs.victoriametrics.com/operator/resources/vmanomaly/): support the experimental `peer_outlier` model and its peer-group parameters in managed configuration.
+
 * Dependency: [vmoperator](https://docs.victoriametrics.com/operator/): Updated default versions for VM apps to [v1.153.0](https://github.com/VictoriaMetrics/VictoriaMetrics/releases/tag/v1.153.0).
 * Dependency: [vmoperator](https://docs.victoriametrics.com/operator/): Updated default versions for VT apps to [v0.12.0](https://github.com/VictoriaMetrics/VictoriaTraces/releases/tag/v0.12.0).
 
